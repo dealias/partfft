@@ -1,0 +1,74 @@
+### Compiled source
+*.o
+*.d
+*.d.*
+
+### Compressed packages and Garbage Collector
+gc-*
+*.tar.gz
+*.tgz
+
+### Binaries
+partfft
+
+### Runtime objects
+run*.cc
+run*.h
+
+### History
+history
+
+
+### Generated files
+*.png
+*.gif
+*.pnm
+*.jpg
+*.prc
+*.svg
+*.roff
+
+### TeX-related
+## Core latex/pdflatex auxiliary files:
+*_.tex
+*+[0-9]*.tex
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.tuc
+
+## Intermediate documents:
+*.dvi
+*-converted-to.*
+# these rules might exclude image files for figures etc.
+*.ps
+*.eps
+*.pdf
+*.pre
+*.m9
+*-[0-9].*
+
+## Bibliography auxiliary files (bibtex/biblatex/biber):
+*.bbl
+*.bcf
+*.blg
+*-blx.aux
+*-blx.bib
+*.brf
+*.run.xml
+
+### Data files
+*.obj
+*.pdb1
+
+### Debugging files
+core.*
+
+### Backups
+*~
+\#*
+.\#*

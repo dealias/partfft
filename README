@@ -1,0 +1,7 @@
+         PARTFFT: Algorithms to compute partial Fourier transforms
+            Copyright 2018 John C. Bowman and Zayd Ghoggali
+
+All source files in the partfft project, unless explicitly noted otherwise,
+are released under version 3 (or later) of the GNU Lesser General Public
+License (see the files LICENSE.LESSER and LICENSE in the top-level source
+directory).
